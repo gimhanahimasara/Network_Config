@@ -1,5 +1,7 @@
 # Network_Config
-Network configuration assignment  
+
+Network configuration assignment
+
 This document is an individual assignment for the Systems and Network Programming (IE2012) module at the Sri Lanka Institute of Information Technology (SLIIT). It serves as a comprehensive technical guide for setting up and managing a Linux-based environment, specifically using Ubuntu.
 
 The assignment covers several key areas of systems administration and network programming:
